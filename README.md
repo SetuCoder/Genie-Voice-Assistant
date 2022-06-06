@@ -18,7 +18,8 @@ Also bear in mind, that Genie only works with an active internet connection.
 
 Download the code as a zip or `git clone` it. Open the code in a Code Editor like VS Code, PyCharm etc. Create a file named **.env** in the folder. This file will contain private data like API Keys. Add the following content.
 
-```USER=NONE
+```
+USER=YOUR_NAME_HERE
 BOTNAME=Geni
 NEWS_API_KEY=NONE
 OPENWEATHER_APP_ID=NONE
