@@ -6,7 +6,7 @@
 
 (Kindly completely go through the README file before running the app.)
 
-Genie is a Python-based voice assistant for your computer which can carry out a variety of tasks by employing certain well-defined commands. (See Features to know more)
+Genie is a Python-based voice assistant for your computer which can carry out a variety of tasks by employing certain well-defined commands. (See the **What can it do?** section below to know more)
 
 Genie draws inspiration from the character "Genie" from the Disney Movie [Alladin](https://movies.disney.com/aladdin-2019). Genie runs in the background of your computer and wakes up whenever you wish so!
 
@@ -32,7 +32,7 @@ You will be replacing **NONE** with your values. To the values, sign up for acco
 
 [TMDB API](https://www.themoviedb.org/)
 
-**Next, follow the installation instructions from the** [Installation README]().
+**Next, follow the installation instructions from the** [Installation README](Installation.MD).
 
 ## 🔮 How do I use it?
 
@@ -40,7 +40,7 @@ Once you run the python file, you'll see a decor text. This indicates that Genie
 
 ![Genie decor](readme-media/Genie-decor.png)
 
-Now, you need to utter "Genie" to get it into listening mode. Once you utter the wake word, it will listen for your command. Refer to **Features** to see all the things it can do. After the command is given, it will process the command and speak the output. For commands that need a follow-up, you are expected to reply to the question it has; then it gives an output. 
+Now, you need to utter "Genie" to get it into listening mode. Once you utter the wake word, it will listen for your command. Refer to the **What can it do?** section below to see all the things it can do. After the command is given, it will process the command and speak the output. For commands that need a follow-up, you are expected to reply to the question it has; then it gives an output. 
 
 As Genie is designed to run in the background, every time you want it to respond, you simply say "Genie" and it will say "Yes Boss", indicating you can proceed with your query.
 
