@@ -1,6 +1,6 @@
 # Genie - Virtual Voice Assistant
 
-![genie-gif](/Users/setukumar/Documents/Genie Voice Assistant/readme-media/genie-gif.gif)
+![genie-gif](readme-media/genie-gif.gif)
 
 ## 🧞‍♂️ Introduction
 
@@ -38,7 +38,7 @@ You will be replacing **NONE** with your values. To the values, sign up for acco
 
 Once you run the python file, you'll see a decor text. This indicates that Genie has turned on.
 
-![Genie decor](/Users/setukumar/Documents/Genie Voice Assistant/readme-media/Genie decor.png)
+![Genie decor](readme-media/Genie decor.png)
 
 Now, you need to utter "Genie" to get it into listening mode. Once you utter the wake word, it will listen for your command. Refer to **Features** to see all the things it can do. After the command is given, it will process the command and speak the output. For commands that need a follow-up, you are expected to reply to the question it has; then it gives an output. 
 
