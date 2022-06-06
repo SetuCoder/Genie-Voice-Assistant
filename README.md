@@ -18,11 +18,11 @@ Also bear in mind, that Genie only works with an active internet connection.
 
 Download the code as a zip or `git clone` it. Open the code in a Code Editor like VS Code, PyCharm etc. Create a file named **.env** in the folder. This file will contain private data like API Keys. Add the following content.
 
-`USER=NONE
+```USER=NONE
 BOTNAME=Geni
 NEWS_API_KEY=NONE
 OPENWEATHER_APP_ID=NONE
-TMDB_API_KEY=NONE`
+TMDB_API_KEY=NONE```
 
 You will be replacing **NONE** with your values. To the values, sign up for accounts on the following websites and get API Keys. Then, paste the API Keys into the respective API fields of the env file.
 
