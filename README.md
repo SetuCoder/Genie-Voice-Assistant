@@ -32,7 +32,7 @@ You will be replacing **NONE** with your values. To the values, sign up for acco
 
 [TMDB API](https://www.themoviedb.org/)
 
-**Next, follow the installation instructions from the** [Installation README](Installation.MD).
+**Next, follow the installation instructions from the** [Installation README](Installation.md).
 
 ## 🔮 How do I use it?
 
