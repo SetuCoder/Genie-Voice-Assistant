@@ -44,9 +44,7 @@
 
     5. `pip install SpeechRecognition`
 
-       
-
-  You can now run the python file to start Genie! Simply type `python3 main.py` into the console.
+  You can now run the python file to start Genie! Simply type `python3 main.py` into the console. But don't do it yet, you'll need to do the in-code changes as well to have a bug-free experience.
 
 # In-code changes
 
