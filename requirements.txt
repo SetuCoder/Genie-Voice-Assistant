@@ -1,0 +1,8 @@
+beautifulsoup4==4.11.1
+PyAutoGUI==0.9.53
+pyfiglet==0.8.post1
+python-decouple==3.6
+pyttsx3==2.90
+pywhatkit==5.3
+requests==2.27.1
+wikipedia==1.4.0
