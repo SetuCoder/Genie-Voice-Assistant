@@ -48,7 +48,7 @@
 
 # In-code changes
 
-**You need to do some small changes in the code to personalize Genie for you. **
+**You need to do some small changes in the code to personalize Genie for you.**
 
 ### Changing app locations
 
