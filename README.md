@@ -22,7 +22,8 @@ Download the code as a zip or `git clone` it. Open the code in a Code Editor lik
 BOTNAME=Geni
 NEWS_API_KEY=NONE
 OPENWEATHER_APP_ID=NONE
-TMDB_API_KEY=NONE```
+TMDB_API_KEY=NONE
+```
 
 You will be replacing **NONE** with your values. To the values, sign up for accounts on the following websites and get API Keys. Then, paste the API Keys into the respective API fields of the env file.
 
