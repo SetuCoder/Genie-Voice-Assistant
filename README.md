@@ -26,7 +26,7 @@ OPENWEATHER_APP_ID=NONE
 TMDB_API_KEY=NONE
 ```
 
-You will be replacing **NONE** with your values. To the values, sign up for accounts on the following websites and get API Keys. Then, paste the API Keys into the respective API fields of the env file.
+You will be replacing **NONE** with your values. To get the values, sign up for accounts on the following websites and get API Keys. Then, paste the API Keys into the respective API fields of the env file.
 
 [NewsAPI](https://newsapi.org/)
 
