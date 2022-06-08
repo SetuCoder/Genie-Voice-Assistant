@@ -116,7 +116,7 @@ Try it for yourself!
 
   Format: Your query should include the word 'advice'
 
-- Return and speak a list of the trending movies
+- **Return and speak a list of the trending movies**
 
   Format: Your query should include the phrase 'trending movies'
 
